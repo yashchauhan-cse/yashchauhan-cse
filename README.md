@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there 👋 I'm Yash Chauhan
 
-<!--
-**yashchauhan-cse/yashchauhan-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 1st Year CSE Student  
+🧠 Passionate about C Programming, Math, and Hacking Systems  
+📚 Currently solving DSA and building Math Engines  
+🎯 Goal: Crack Google SWE
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- C Programming
+- Data Structures & Algorithms
+- Custom Math Systems (YTRS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My Current Focus
+- Solving 300+ Leetcode Problems
+- Open Source Contributions
+- Writing my own Math-Based Algorithms

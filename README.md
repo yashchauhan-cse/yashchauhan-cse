@@ -37,10 +37,5 @@
 
 ---
 
-## 🧠 Quote I Live By
-> "_Discipline is the bridge between goals and greatness._"
-
----
-
 ## 📫 Reach Me
 - 🌐 GitHub: [github.com/yashchauhan-cse](https://github.com/yashchauhan-cse)
